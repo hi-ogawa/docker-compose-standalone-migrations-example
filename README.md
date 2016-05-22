@@ -1,4 +1,4 @@
-Usage example of standalone-migrations container app with docker-compose.
+Usage example of [Dockerized standalone-migrations](https://github.com/hi-ogawa/docker-standalone-migrations) with docker-compose.
 
 Commands to run:
 
